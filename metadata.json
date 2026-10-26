@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Dạy học Toán - Thầy Hoàng Minh",
+  "description": "Hệ thống trợ lý dạy học Toán chuyên nghiệp của Thầy Hoàng Minh - Trường THẠNH LỘC. Quản lý lớp học, học sinh, điểm số, đề kiểm tra, theo dõi tiến độ và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
